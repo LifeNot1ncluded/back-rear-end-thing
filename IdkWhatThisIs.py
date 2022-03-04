@@ -1,4 +1,3 @@
-"hahahahahahaha"
 import random
 
 CHOICES = 'rps'
