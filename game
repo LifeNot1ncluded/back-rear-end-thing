@@ -55,4 +55,3 @@ choice = str(input("Would you like to play again? y/n\n"))
 if choice == "y":
     clear()
     os.system("rockpaperscissors.py")
-
