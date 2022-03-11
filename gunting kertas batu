@@ -5,7 +5,6 @@ Glist = ["Gunting", "Batu", "Kertas"]
 komputer = Glist[randint(0,2)]
 
 pemain = False
-
 while pemain == False:
     #Set pemain ke True
     pemain = input("Gunting, Batu, Kertas ? : ")
